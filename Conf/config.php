@@ -3,12 +3,7 @@ return array(
 //'配置项'=>'配置值'
  'DB_TYPE'   => 'mysql', // 数据库类型
  'DB_PORT'   => 3306, // 端口        
- 'DB_HOST'		=>'localhost',//数据库类型 
-		 'DB_NAME'		=>'library',//数据库名
-		 'DB_USER'		=>'root',//用户名
-		 'DB_PWD'		=>'2009zhyj',//密码
-		 'DB_PREFIX'	=>'ds_',//后缀   
-		 
+  
 //'DB_SQL_BUILD_CACHE' => true,//SQL缓存
  'APP_GROUP_LIST' => 'Home,Admin,Api', //项目分组设定
  'TMPL_PARSE_STRING'  =>array(
